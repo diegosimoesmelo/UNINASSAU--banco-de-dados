@@ -1,0 +1,7 @@
+1- ler e entender o minimundo
+2- identificar entidades
+3- escolher foco
+4- fazer relacionamentos
+5- determinar cardinalidades
+6- colocar os atributos determinantes
+7-colocar os demais atributos
